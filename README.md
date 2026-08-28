@@ -3,6 +3,8 @@
 **Student:** Pranav Jaiganesh  
 **Supervisor:** Prof. Chng Eng Siong, Nanyang Technological University  
 **Project Type:** Remote Research Internship  
+**Duration:** August 2026 – February 2027 or more
+**Working With:** Ahire Vrushank Ajay and Hoang Anh  
 
 ## Current Direction
 
