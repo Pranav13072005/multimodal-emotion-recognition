@@ -3,7 +3,7 @@
 **Student:** Pranav Jaiganesh  
 **Supervisor:** Prof. Chng Eng Siong, Nanyang Technological University  
 **Project Type:** Remote Research Internship  
-**Duration:** August 2026 – February 2027 or more
+**Duration:** August 2026 – February 2027 or more  
 **Working With:** Ahire Vrushank Ajay and Hoang Anh  
 
 ## Current Direction
@@ -33,7 +33,8 @@ was trained with that context in the first place. Working out what that implies 
 how context should be used in this task is the next step.
 
 Full experimental detail, protocol, and numbers are in [`RESULTS.md`](RESULTS.md).
-The executed notebook for every stage is in [`notebooks/`](notebooks/).
+An executed notebook for every stage is in [`notebooks/`](notebooks/), and the
+slide deck for the September 2026 progress update is in [`slides/`](slides/).
 
 ## Updates
 
